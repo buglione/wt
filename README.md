@@ -21,7 +21,7 @@ module.exports = function (done) {
 }
 ```
 
-#### Push the tasks to the WT platform. The command will return an URL
+#### Push the tasks to the WT platform (also valid for updates). The command will return an URL
 ```
 $ wt create buenas.js
 ```
